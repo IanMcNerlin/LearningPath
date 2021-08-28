@@ -1,0 +1,7 @@
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\bin\Debug\ConsoleDemoVariables.exe.config
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\bin\Debug\ConsoleDemoVariables.exe
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\bin\Debug\ConsoleDemoVariables.pdb
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\obj\Debug\ConsoleDemoVariables.csprojAssemblyReference.cache
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\obj\Debug\ConsoleDemoVariables.csproj.CoreCompileInputs.cache
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\obj\Debug\ConsoleDemoVariables.exe
+C:\CSharpFundamentals\Projects\Module02\ConsoleDemoVariablesApp\ConsoleDemoVariables\obj\Debug\ConsoleDemoVariables.pdb
