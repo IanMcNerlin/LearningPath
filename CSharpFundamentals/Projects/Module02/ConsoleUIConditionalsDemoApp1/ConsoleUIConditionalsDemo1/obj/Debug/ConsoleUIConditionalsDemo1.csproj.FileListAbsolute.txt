@@ -1,0 +1,7 @@
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\bin\Debug\ConsoleUIConditionalsDemo1.exe.config
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\bin\Debug\ConsoleUIConditionalsDemo1.exe
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\bin\Debug\ConsoleUIConditionalsDemo1.pdb
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\obj\Debug\ConsoleUIConditionalsDemo1.csprojAssemblyReference.cache
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\obj\Debug\ConsoleUIConditionalsDemo1.csproj.CoreCompileInputs.cache
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\obj\Debug\ConsoleUIConditionalsDemo1.exe
+C:\Users\IanMc\source\repos\ConsoleUIConditionalsDemoApp1\ConsoleUIConditionalsDemo1\obj\Debug\ConsoleUIConditionalsDemo1.pdb
