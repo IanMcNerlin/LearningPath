@@ -1,0 +1,7 @@
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\bin\Debug\ConsoleUITypeConversionDemo.exe.config
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\bin\Debug\ConsoleUITypeConversionDemo.exe
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\bin\Debug\ConsoleUITypeConversionDemo.pdb
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\obj\Debug\ConsoleUITypeConversionDemo.csprojAssemblyReference.cache
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\obj\Debug\ConsoleUITypeConversionDemo.csproj.CoreCompileInputs.cache
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\obj\Debug\ConsoleUITypeConversionDemo.exe
+C:\Users\IanMc\source\repos\ConsoleUITypeConversionDemoApp1\ConsoleUITypeConversionDemo\obj\Debug\ConsoleUITypeConversionDemo.pdb
